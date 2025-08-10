@@ -15,10 +15,10 @@ python2 knockpy ejemplo.com
 # Opciones principales 🔧:
 -w: Especifica una wordlist personalizada o predeterminada.<br>
 -d: Especifica un dominio web.<br>
--dns: Indica un parámetro para consultar al servidor si existen registros DNS y a qué IP apuntan.<br>
 
 # Ejemplo completo de las opciones principales 🔧: 
-[Ejemplo](https://github.com/user-attachments/assets/922e84f2-0ad7-44ad-87c4-8f6a27837d53)
+[Ejemplo1](https://github.com/user-attachments/assets/e9bd2661-7343-4f9e-8113-b37904e6cd65)
+[Ejemplo2](https://github.com/user-attachments/assets/922e84f2-0ad7-44ad-87c4-8f6a27837d53)
 
 ## Explicación del ejemplo 🔒: 
 *Python2:* Es el encargado de que el script se ejecute correctamente.<br>
@@ -26,6 +26,7 @@ python2 knockpy ejemplo.com
 *Google.com:* Es el dominio objetivo en el cual se realiza la búsqueda de subdominios.<br>
 *--Wordlist:* Es el indicador de qué wordlist se utilizará para el análisis.<br>
 *Wordlist.txt:* Es la encargada de descubrir los subdominios.<br>
+
 
 
 
