@@ -57,6 +57,17 @@ python3 dirforcer.py -d https://ejemplo.com -w directorios.txt
 # Gobuster 🔍:
 Gobuster es una herramienta de fuerza bruta que se utiliza principalmente para encontrar directorios, archivos, subdominios y otros recursos ocultos en servidores web o DNS.
 
+# Instalación 📦:
+sudo apt install gobuster
+
+# Uso básico 💻: 
+Conmúnmente la herramienta gobuster se usa en entornos de práctica y laboratorio conocido como Metasploitable2, porque esta es una máquina vulnerable diseñada para que los pentesters y estudiantes practiquen técnicas de hacking ético, incluyendo la enumeración de directorios y subdominios.
+
+
+
+
+
+
 
 
 
