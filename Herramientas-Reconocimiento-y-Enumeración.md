@@ -9,12 +9,12 @@ KnockPy es una herramienta desarrollada en Python para la enumeración de subdom
 git clone https://github.com/santiko/Knockpy.git
 
 ## Uso básico 💻: 
-*Escaneo simple de un dominio:*
+*Escaneo simple de un dominio:*<br>
 Knockpy ejemplo.com
 
 ## Opciones principales 🔧:
--w: Especifica una wordlist personalizada o predeterminada.
--d: Especifica un dominio web.
+-w: Especifica una wordlist personalizada o predeterminada.<br>
+-d: Especifica un dominio web.<br>
 -dns: 
 
 
