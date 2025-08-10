@@ -16,11 +16,11 @@ python2 knockpy ejemplo.com
 -w: Especifica una wordlist personalizada o predeterminada.<br>
 -d: Especifica un dominio web.<br>
 
-# Ejemplo completo de las opciones principales 🔧: 
+# Ejemplos completos de las opciones principales 🔧: 
 [Ejemplo1](https://github.com/user-attachments/assets/e9bd2661-7343-4f9e-8113-b37904e6cd65)<br>
 [Ejemplo2](https://github.com/user-attachments/assets/922e84f2-0ad7-44ad-87c4-8f6a27837d53)<br>
 
-## Explicación del ejemplo 🔒: 
+## Explicación de los ejemplos 🔒: 
 *Python2:* Es el encargado de que el script se ejecute correctamente.<br>
 *Knockpy:* Es el script principal que realiza la enumeración de subdominios.<br>
 *Google.com:* Es el dominio objetivo en el cual se realiza la búsqueda de subdominios.<br>
