@@ -56,6 +56,12 @@
 
 ![Ejemplo cp](https://github.com/user-attachments/assets/f87c10c9-f661-4692-8602-a20597ca7411)
 
+## Ejemplo clear:
+
+![Ejemplo clear](https://github.com/user-attachments/assets/560a8df3-fbd1-49e5-91f8-74fe50d335d5)
+![Ejemplo clear](https://github.com/user-attachments/assets/38d58d45-1ef0-4940-839c-221fd8668e22)
+
+
 
 
 
