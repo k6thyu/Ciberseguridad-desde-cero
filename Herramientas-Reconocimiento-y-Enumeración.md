@@ -19,7 +19,8 @@ python2 knockpy ejemplo.com
 
 # Ejemplo completo de las opciones principales 🔧: 
 [!Ejemplo](https://github.com/user-attachments/assets/922e84f2-0ad7-44ad-87c4-8f6a27837d53)
-## Explicación del ejemplo: 
+
+## Explicación del ejemplo 🔒: 
 
 
 
