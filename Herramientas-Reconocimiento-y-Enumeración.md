@@ -37,6 +37,9 @@ git clone https://github.com/thiagoarajosec/dirforcer.git<br>
 *Dependencia*:<br> 
 pipx install pyfiglet
 
+# Uso básico 💻: 
+python3 dirforcer.py -d https://ejemplo.com -w directorios.txt
+
 
 
 
