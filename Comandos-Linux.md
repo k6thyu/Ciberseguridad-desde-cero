@@ -52,6 +52,8 @@
 
 ![Ejemplo rm](https://github.com/user-attachments/assets/a445329b-bef3-4263-ae89-2442e13c2a3d)
 
+## Ejemplo cp: 
+
 
 
 
