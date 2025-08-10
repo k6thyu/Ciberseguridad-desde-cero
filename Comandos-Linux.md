@@ -41,7 +41,18 @@
 ![Ejemplo mkdir](https://github.com/user-attachments/assets/b5535e9a-306d-4b0c-9d73-bd24c463fa54)
 
 ## Ejemplo rmdir: 
+
 ![Ejemplo rmdir](https://github.com/user-attachments/assets/fd65cb1c-9055-4b2f-aade-8953624ef5a2)
+
+## Ejemplo touch:
+
+![Ejemplo touch](https://github.com/user-attachments/assets/182cdd48-4300-490f-b4e9-3ae7c42229e4)
+
+## Ejemplo rm:
+
+![Ejemplo rm](https://github.com/user-attachments/assets/a445329b-bef3-4263-ae89-2442e13c2a3d)
+
+
 
 
 
