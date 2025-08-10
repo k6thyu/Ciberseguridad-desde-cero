@@ -53,6 +53,9 @@ python3 dirforcer.py -d https://ejemplo.com -w directorios.txt
 # Ejemplo completo del uso básico 🔧:
 [Ejemplo1](https://github.com/user-attachments/assets/8bf031a7-32cc-40e6-8203-478ade0fd3c3)
 
+<br><br>
+# Gobuster 🔍:
+Gobuster es una herramienta de fuerza bruta que se utiliza principalmente para encontrar directorios, archivos, subdominios y otros recursos ocultos en servidores web o DNS.
 
 
 
