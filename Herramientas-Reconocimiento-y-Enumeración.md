@@ -11,3 +11,10 @@ git clone https://github.com/santiko/Knockpy.git
 ## Uso básico 💻: 
 *Escaneo simple de un dominio:*
 Knockpy ejemplo.com
+
+## Opciones principales 🔧:
+-w: Especifica una wordlist personalizada o predeterminada.
+-d: Especifica un dominio web.
+-dns: 
+
+
