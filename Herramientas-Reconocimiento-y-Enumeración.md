@@ -5,4 +5,5 @@
 ## KnockPy: 🔍:
 KnockPy es una herramienta desarrollada en Python para la enumeración de subdominios en un dominio objetivo mediante el uso de listas de palabras (wordlists). Resulta especialmente útil en la fase de reconocimiento durante pruebas de penetración.
 
-
+## Instalación:
+git clone https://github.com/santiko/Knockpy.git
