@@ -61,7 +61,10 @@ Gobuster es una herramienta de fuerza bruta que se utiliza principalmente para e
 sudo apt install gobuster
 
 # Uso básico 💻: 
-Conmúnmente la herramienta gobuster se usa en entornos de práctica y laboratorio conocido como Metasploitable2, porque esta es una máquina vulnerable diseñada para que los pentesters y estudiantes practiquen técnicas de hacking ético, incluyendo la enumeración de directorios y subdominios.
+Conmúnmente la herramienta gobuster se usa en entornos de práctica y laboratorio conocido como Metasploitable2, porque esta es una máquina vulnerable diseñada para que los pentesters y estudiantes practiquen técnicas de hacking ético, incluyendo la enumeración de directorios y subdominios.<br>
+
+En la máquina virtual Metasploitable2 introduciremos el comando ''ifconfig''. Cuando ya introdujimos el comando nos dirigiremos al apartado de ''inet addr'' donde saldrá una dirección ip.<br> 
+
 
 
 
