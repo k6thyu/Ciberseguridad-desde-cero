@@ -32,6 +32,12 @@ python2 knockpy ejemplo.com
 # Dirforcer 🔍:
 Dirforcer es una herramienta de fuerza bruta que fue diseñada para la búsqueda de archivos ocultos y directorios en servidores web. Su objetivo principal es ayudar a descubrir rutas no registradas o protegidas que no aparecen fácilmente navegando por un sitio web, lo que puede ser útil para pruebas de seguridad o pentesting.
 
+# Instalación 📦:
+git clone https://github.com/thiagoarajosec/dirforcer.git<br>
+*Dependencia*: 
+pipx install pyfiglet
+
+
 
 
 
