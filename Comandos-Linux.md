@@ -16,5 +16,4 @@
 | `clear` | Limpiar la terminal. | `clear` |
 
 # Ejemplos de cada comando
-![Ejemplo de ls] https://prnt.sc/qXs0lpnR_g_H
-![Ejemplo de cd]
+
