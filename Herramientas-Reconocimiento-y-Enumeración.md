@@ -50,6 +50,9 @@ python3 dirforcer.py -d https://ejemplo.com -w directorios.txt
 | 404    | No encontrado              | La página o recurso no existe.               |
 | 500    | Error interno del servidor | El servidor encontró un error inesperado.  |
 
+# Ejemplo completo del uso básico 🔧:
+[Ejemplo1](https://github.com/user-attachments/assets/8bf031a7-32cc-40e6-8203-478ade0fd3c3)
+
 
 
 
