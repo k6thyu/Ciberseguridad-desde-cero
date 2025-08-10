@@ -40,6 +40,9 @@
 
 ![Ejemplo mkdir](https://github.com/user-attachments/assets/b5535e9a-306d-4b0c-9d73-bd24c463fa54)
 
+## Ejemplo rmdir: 
+![Ejemplo rmdir](https://github.com/user-attachments/assets/fd65cb1c-9055-4b2f-aade-8953624ef5a2)
+
 
 
 
