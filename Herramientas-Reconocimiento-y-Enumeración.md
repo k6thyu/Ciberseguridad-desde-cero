@@ -1,4 +1,4 @@
-⚠️ **Aviso Legal** ⚠️:
+⚠️ **Aviso Legal**:
 > Todo el contenido de este repositorio es únicamente con fines educativos y de aprendizaje en entornos controlados.  
 > No me hago responsable del mal uso que se le pueda dar a la información aquí descrita.
 
