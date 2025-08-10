@@ -1,4 +1,4 @@
-> ⚠️ **Aviso Legal** ⚠️:
+<img width="530" height="547" alt="image" src="https://github.com/user-attachments/assets/b411a2a4-81b7-4d74-90b0-a0ef8bf34b5e" />> ⚠️ **Aviso Legal** ⚠️:
 > Todo el contenido de este repositorio es únicamente con fines educativos y de aprendizaje en entornos controlados.  
 > No me hago responsable del mal uso que se le pueda dar a la información aquí descrita.
 
@@ -17,4 +17,10 @@ Knockpy ejemplo.com
 -d: Especifica un dominio web.<br>
 -dns: Indica un parámetro para consultar al servidor si existen registros DNS y a qué IP apuntan.<br>
 
-# Ejemplos de las opciones principales 🔧:
+## Ejemplo completo de las opciones principales 🔧: 
+[!Ejemplo](https://github.com/user-attachments/assets/922e84f2-0ad7-44ad-87c4-8f6a27837d53)
+
+
+
+
+
