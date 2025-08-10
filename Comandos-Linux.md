@@ -1,4 +1,4 @@
-# Comandos básicos de Linux:
+# Comandos básicos de Kali Linux:
 
 | Comando | Descripción | Ejemplo |
 |---------|-------------|---------|
