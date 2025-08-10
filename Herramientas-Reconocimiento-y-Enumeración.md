@@ -15,6 +15,4 @@ Knockpy ejemplo.com
 ## Opciones principales 🔧:
 -w: Especifica una wordlist personalizada o predeterminada.<br>
 -d: Especifica un dominio web.<br>
--dns: 
-
-
+-dns: Indica un parámetro para consultar al servidor si existen registros DNS y a qué IP apuntan.<br>
