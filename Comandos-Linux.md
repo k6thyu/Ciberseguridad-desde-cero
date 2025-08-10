@@ -1,12 +1,16 @@
-ls= Lo que hace este comando es enumerar las carpetas o directorios dependiendo la ruta en la que nos encontremos.
-cd= Lo que hace este comando es ayudar a movernos de carpeta en carpeta, ejemplo: cd Descargas/.
-cd ..= Lo que hace este comando es situarnos en la carpeta que estuvimos anteriormente.
-pwd= Lo que hace este comando es que nos muestra en que ruta nos encontramos actualmente.
-cat= Lo que hace este comando es que nos muestra el contenido que contiene un archivo.
-mkdir= Lo que hace este comando es crear una carpeta, ejemplo: mkdir (nombre de la carpeta).
-rmdir= Lo que hace este comando es eliminar una carpeta, ejemplo rmdir (nombre de la carpeta).
-touch= Lo que hace este comando es para la creación de archivos con el nombre y la extensión que se desee, ejemplo: touch documento.txt.
-rm= Lo que hace este coamndo es la eliminación de archivos.
-cp= Lo que hace este comando es copiar archivos y dejarlos en una ubicación deseada, ejemplo: cp (archivo original) + (ruta del destino).
-mv= Lo que hace este comando es mover archivos y dejarlos en una ubicación deseada, ejemplo: mv (archivo original) + (ruta del destino).
-clear= Lo que hace este comando es limpiar la terminal.
+# Comandos básicos de Linux
+
+| Comando | Descripción | Ejemplo |
+|---------|-------------|---------|
+| `ls`    | Lista carpetas o directorios dependiendo de la ruta actual. | `ls` |
+| `cd`    | Moverse entre carpetas. | `cd Descargas/` |
+| `cd ..` | Volver a la carpeta anterior. | `cd ..` |
+| `pwd`   | Mostrar la ruta actual. | `pwd` |
+| `cat`   | Mostrar el contenido de un archivo. | `cat archivo.txt` |
+| `mkdir` | Crear una carpeta. | `mkdir nueva_carpeta` |
+| `rmdir` | Eliminar una carpeta vacía. | `rmdir carpeta_vacia` |
+| `touch` | Crear un archivo vacío. | `touch documento.txt` |
+| `rm`    | Eliminar archivos. | `rm archivo.txt` |
+| `cp`    | Copiar archivos. | `cp original.txt copia.txt` |
+| `mv`    | Mover o renombrar archivos. | `mv archivo.txt carpeta/` |
+| `clear` | Limpiar la terminal. | `clear` |
