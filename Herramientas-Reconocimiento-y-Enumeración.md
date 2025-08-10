@@ -34,7 +34,7 @@ Dirforcer es una herramienta de fuerza bruta que fue diseñada para la búsqueda
 
 # Instalación 📦:
 git clone https://github.com/thiagoarajosec/dirforcer.git<br>
-*Dependencia*: 
+*Dependencia*:<br> 
 pipx install pyfiglet
 
 
