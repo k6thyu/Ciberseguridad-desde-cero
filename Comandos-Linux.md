@@ -1,4 +1,4 @@
-# Comandos básicos de Linux
+# Comandos básicos de Linux:
 
 | Comando | Descripción | Ejemplo |
 |---------|-------------|---------|
@@ -15,7 +15,7 @@
 | `mv`    | Mover o renombrar archivos. | `mv archivo.txt carpeta/` |
 | `clear` | Limpiar la terminal. | `clear` |
 
-# Ejemplos de cada comando
+# Ejemplos visuales de cada comando:
 Ejemplo ls:
 
 <img width="822" height="67" alt="Ejemplo ls" src="https://github.com/user-attachments/assets/f8f1c486-6a44-48df-804a-80170ab6e583" />
@@ -23,4 +23,10 @@ Ejemplo ls:
 Ejemplo cd:
 
 <img width="291" height="107" alt="Ejemplo cd" src="https://github.com/user-attachments/assets/376e77a3-20e7-4061-8571-705c9aee2743" />
+
+Ejemplo cd ..:
+
+<img width="480" height="180" alt="Ejemplo cd" src="https://github.com/user-attachments/assets/46e27b20-a325-4c1e-91e4-1afb9ff3db28" />
+
+
 
