@@ -14,3 +14,7 @@
 | `cp`    | Copiar archivos. | `cp original.txt copia.txt` |
 | `mv`    | Mover o renombrar archivos. | `mv archivo.txt carpeta/` |
 | `clear` | Limpiar la terminal. | `clear` |
+
+# Ejemplos de cada comando
+![Ejemplo de ls] https://prnt.sc/qXs0lpnR_g_H
+![Ejemplo de cd]
