@@ -18,7 +18,7 @@
 # Ejemplos visuales de cada comando:
 ### Ejemplo ls: 
 
-<img width="822" height="67" alt="Ejemplo ls" src="https://github.com/user-attachments/assets/f8f1c486-6a44-48df-804a-80170ab6e583" />
+![Ejemplo ls](https://github.com/user-attachments/assets/f8f1c486-6a44-48df-804a-80170ab6e583)
 
 ### Ejemplo cd:
 
