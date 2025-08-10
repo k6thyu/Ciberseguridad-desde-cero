@@ -40,6 +40,17 @@ pipx install pyfiglet
 # Uso básico 💻: 
 python3 dirforcer.py -d https://ejemplo.com -w directorios.txt
 
+# Códigos HTTP importantes 🚦:
+| Código | Significado                 | Descripción breve                           |
+|--------|----------------------------|---------------------------------------------|
+| 200    | OK                         | La solicitud fue exitosa y la página existe.|
+| 301    | Redirección permanente     | La URL solicitada se ha movido permanentemente a otra ubicación.|
+| 302    | Redirección temporal       | La URL solicitada se ha movido temporalmente a otra ubicación.|
+| 403    | Prohibido                  | Acceso denegado a la página o recurso.      |
+| 404    | No encontrado              | La página o recurso no existe.               |
+| 500    | Error interno del servidor | El servidor encontró un error inesperado.  |
+
+
 
 
 
