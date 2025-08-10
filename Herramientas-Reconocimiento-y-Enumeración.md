@@ -23,7 +23,7 @@ python2 knockpy ejemplo.com
 ## Explicación del ejemplo 🔒: 
 *Python2:* Es el encargado de que el script se ejecute correctamente.<br>
 *Knockpy:* Es el script principal que realiza la enumeración de subdominios.<br>
-*Google.com:* Es el dominio objetivo en el cual se realiza la busqueda de subdominios.<br>
+*Google.com:* Es el dominio objetivo en el cual se realiza la búsqueda de subdominios.<br>
 *--Wordlist:* Es el indicador de qué wordlist se utilizará para el análisis.<br>
 *Wordlist.txt:* Es la encargada de descubrir los subdominios.<br>
 
