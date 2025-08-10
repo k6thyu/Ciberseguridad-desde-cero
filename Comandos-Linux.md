@@ -16,27 +16,28 @@
 | `clear` | Limpiar la terminal. | `clear` |
 
 # Ejemplos visuales de cada comando:
-Ejemplo ls:
+### Ejemplo ls: 
 
 <img width="822" height="67" alt="Ejemplo ls" src="https://github.com/user-attachments/assets/f8f1c486-6a44-48df-804a-80170ab6e583" />
 
-Ejemplo cd:
+### Ejemplo cd:
 
 <img width="291" height="107" alt="Ejemplo cd" src="https://github.com/user-attachments/assets/376e77a3-20e7-4061-8571-705c9aee2743" />
 
-Ejemplo cd ..:
+### Ejemplo cd ..:
 
 <img width="480" height="180" alt="Ejemplo cd" src="https://github.com/user-attachments/assets/46e27b20-a325-4c1e-91e4-1afb9ff3db28" />
 
-Ejemplo pwd:
+### Ejemplo pwd:
 
 <img width="423" height="182" alt="Ejemplo pwd" src="https://github.com/user-attachments/assets/30bdd658-5a8a-443d-9fa1-e5b4103e2b2a" />
 
-Ejemplo cat:
+### Ejemplo cat:
 
 <img width="635" height="678" alt="Ejemplo cat" src="https://github.com/user-attachments/assets/41321f51-4a1f-4b8e-b828-387e86937137" />
 
-Ejemplo mkdir:
+### Ejemplo mkdir:
+
 
 
 
