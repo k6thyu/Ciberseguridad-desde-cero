@@ -70,6 +70,8 @@ sudo apt install gobuster
 -Luego en la terminal de la máquina virtual Kali Linux introduciremos el comando "gobuster dir --url http://192.168.0.41/ --wordlist /usr/share/wordlist/dirb/Seclists/Discovery/Web-Content"<br>
 
 
+## Ejemplo del uso de la herramienta 🔧:
+
 
 
 
