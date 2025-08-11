@@ -71,6 +71,8 @@ sudo apt install gobuster
 
 
 ## Ejemplo del uso de la herramienta 🔧:
+[Ejemplo1](https://github.com/user-attachments/assets/a3a0627b-cb26-456c-9653-f82fb5cd203e)
+
 
 
 
