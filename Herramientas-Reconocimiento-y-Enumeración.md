@@ -4,7 +4,7 @@
 
 <br><br>
 # KnockPy 🔍:
-KnockPy es una herramienta desarrollada en Python para la enumeración de subdominios en un dominio objetivo mediante el uso de listas de palabras (wordlists). Resulta especialmente útil en la fase de reconocimiento durante pruebas de penetración.
+KnockPy es una herramienta desarrollada en Python para la **enumeración de subdominios en un dominio objetivo mediante el uso de listas de palabras (wordlists)**. Resulta especialmente útil en la **fase de reconocimiento** durante pruebas de penetración.
 
 # Instalación 📦:
 git clone https://github.com/santiko/Knockpy.git
@@ -30,7 +30,7 @@ python2 knockpy ejemplo.com
 
 <br><br>
 # Dirforcer 🔍:
-Dirforcer es una herramienta de fuerza bruta que fue diseñada para la búsqueda de archivos ocultos y directorios en servidores web. Su objetivo principal es ayudar a descubrir rutas no registradas o protegidas que no aparecen fácilmente navegando por un sitio web, lo que puede ser útil para pruebas de seguridad o pentesting.
+Dirforcer es una **herramienta de fuerza bruta que fue diseñada para la búsqueda de archivos ocultos y directorios en servidores web**. Su objetivo principal es ayudar a descubrir **rutas no registradas o protegidas** que no aparecen fácilmente navegando por un sitio web, lo que puede ser útil para pruebas de seguridad o pentesting.
 
 # Instalación 📦:
 git clone https://github.com/thiagoarajosec/dirforcer.git<br>
@@ -55,17 +55,17 @@ python3 dirforcer.py -d https://ejemplo.com -w directorios.txt
 
 <br><br>
 # Gobuster 🔍:
-Gobuster es una herramienta de fuerza bruta que se utiliza principalmente para encontrar directorios, archivos, subdominios y otros recursos ocultos en servidores web o DNS.
+Gobuster es una **herramienta de fuerza bruta que se utiliza principalmente para encontrar directorios, archivos, subdominios y otros recursos ocultos en servidores web o DNS**.
 
 # Instalación 📦:
 sudo apt install gobuster
 
 # Uso básico 💻: 
--Conmúnmente la herramienta gobuster se usa en entornos de práctica y laboratorio conocido como Metasploitable2, porque esta es una máquina vulnerable diseñada para que los pentesters y estudiantes practiquen técnicas de hacking ético, incluyendo la enumeración de directorios y subdominios.<br>
+-Conmúnmente la herramienta gobuster se usa en entornos de práctica y laboratorio conocido como **Metasploitable2**, porque esta es una **máquina vulnerable diseñada para que los pentesters y estudiantes practiquen técnicas de hacking ético**, incluyendo la enumeración de directorios y subdominios.<br>
 
--En la máquina virtual Metasploitable2 introduciremos el comando "ifconfig". Cuando ya introdujimos el comando nos dirigiremos al apartado de "inet addr" donde saldrá una dirección ip.<br> 
+-En la máquina virtual Metasploitable2 introduciremos el comando **"ifconfig"**. Cuando ya introdujimos el comando nos dirigiremos al apartado de **"inet addr"** donde saldrá una dirección ip.<br> 
 
--Podemos descargar una wordlist que es muy completa y poderosa llamada Seclists con el comando "git clone https://github.com/danielmiessler/SecLists.git"<br>
+-Podemos descargar una **wordlist que es muy completa y poderosa llamada Seclists** con el comando "git clone https://github.com/danielmiessler/SecLists.git"<br>
 
 -Luego en la terminal de la máquina virtual Kali Linux introduciremos el comando "gobuster dir --url http://192.168.0.41/ --wordlist /usr/share/wordlist/dirb/Seclists/Discovery/Web-Content"<br>
 
