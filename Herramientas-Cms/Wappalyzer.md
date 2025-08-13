@@ -4,8 +4,10 @@ Wappalyzer es una extensión para los navegadores que se utiliza para **detectar
 ## Instalación 📦:
 Para obtener la extensión tendremos que acceder a nuestro **navegador de preferencia** dicho esto, nos dirigiremos al apartado de los **tres puntitos en el costado superior derecho y entraremos donde dice extensiones**. Posteriormente, buscaremos la extensión dicha y pincharemos en el apartado de **agregar**. Finalmente **habilitaremos** la extensión si es necesario.
 <br>
-## Ejemplo de uso 🔧:
-![Ejemplo](https://github.com/user-attachments/assets/d4c504e7-1b7f-4e62-aa7a-670ff667880b)
+## Ejemplos de uso 🔧:
+![Ejemplo1](https://github.com/user-attachments/assets/d4c504e7-1b7f-4e62-aa7a-670ff667880b)
+![Ejemplo2](https://github.com/user-attachments/assets/c6fa6be0-77bb-4a18-8758-9587466810bd)
+
 
 
 
