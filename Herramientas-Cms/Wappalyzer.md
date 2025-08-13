@@ -1,3 +1,7 @@
+⚠️ **Aviso Legal**:
+> Todo el contenido de este repositorio es únicamente con fines educativos y de aprendizaje en entornos controlados.  
+> No me hago responsable del mal uso que se le pueda dar a la información aquí descrita.
+
 ## Wappalyzer en Kali Linux 🔍:
 Wappalyzer es una extensión para los navegadores que se utiliza para **detectar las tecnologías utilizadas por los sitios web** en tiempo real.
 <br>
