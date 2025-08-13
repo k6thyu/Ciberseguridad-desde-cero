@@ -9,3 +9,4 @@ WhatWeb es una herramienta de línea de comandos utilizada para **detectar qué 
 <br>
 ## Uso básico 💻:
 whatweb ejemplo.com
+whatweb -v ejemplo.com
