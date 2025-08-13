@@ -1,5 +1,5 @@
 ## Wappalyzer en Kali Linux 🔍:
-Es una extensión para los navegadores que se utiliza para detectar las tecnologías utilizadas por los sitios web en tiempo real.
+Wappalyzer es una extensión para los navegadores que se utiliza para detectar las tecnologías utilizadas por los sitios web en tiempo real.
 
 
 
