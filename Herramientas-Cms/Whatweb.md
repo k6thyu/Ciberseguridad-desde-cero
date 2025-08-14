@@ -18,4 +18,9 @@ whatweb --log-json resultado.json ejemplo.com
 whatweb --list-plugins
 ```
 ## Opciones principales 🔧:
-
+-v: Modo verbose, más detalle por mostrar.
+-a: Controla el nivel de agresividad que puede ser 1,3 y 4.
+-i archivo.txt: Escaneo por la lista de objetivos.
+--log-brief: Guarda resultados con un resumen corto y legible a simple vista.
+--log-json: Guarda resultados de datos completos y estructurados para análisis posterior.
+--list-plugins: Te permite ver todos los plugins disponibles.
