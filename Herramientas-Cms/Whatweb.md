@@ -8,5 +8,11 @@
 WhatWeb es una herramienta de línea de comandos utilizada para **detectar qué tecnologías utiliza un sitio web**.
 <br>
 ## Uso básico 💻:
-whatweb ejemplo.com<br>
+```bash
+whatweb ejemplo.com
 whatweb -v ejemplo.com
+whatweb -a (1,3,4) ejemplo.com
+whatweb -i archivo.txt
+whatweb --log-brief resultado.txt ejemplo.com
+whatweb --log-json resultado.json ejemplo.com
+whatweb --list-plugins
