@@ -18,5 +18,4 @@ whatweb --log-json resultado.json ejemplo.com
 whatweb --list-plugins
 ```
 ## Opciones principales 🔧:
--v: Modo verbose, **más detalle**
--a: **Nivel de agresividad**
+
