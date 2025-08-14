@@ -32,8 +32,3 @@ whatweb --list-plugins
 [Ejemplo --log-brief](https://github.com/user-attachments/assets/88efb675-60e9-431a-add2-60538a50d4d3)<br>
 [Ejemplo --log-json](https://github.com/user-attachments/assets/c514ca26-d6e1-43ad-93f3-605b519f362a)<br>
 [Ejemplo --list-plugins](https://github.com/user-attachments/assets/016ca996-0bc1-4310-b4d8-16c50eb310a8)<br>
-
-## Explicación de los ejemplos 🔒:
-
-
-
