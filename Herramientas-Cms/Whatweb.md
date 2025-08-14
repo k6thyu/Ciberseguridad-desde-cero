@@ -29,8 +29,8 @@ whatweb --list-plugins
 [Ejemplo -v](https://github.com/user-attachments/assets/6a9406ed-bed9-4efc-a3ce-69af133f5841)<br>
 [Ejemplo -a](https://github.com/user-attachments/assets/ac1c7e48-9e57-41d8-9de6-ca5677a35daf)<br>
 [Ejemplo -i](https://github.com/user-attachments/assets/b78d98ad-a186-47c3-a569-11dc7f40c75e)<br>
-[Ejemplo --log-brief](https://github.com/user-attachments/assets/88efb675-60e9-431a-add2-60538a50d4d3)
-[Ejemplo --log-json](https://github.com/user-attachments/assets/c514ca26-d6e1-43ad-93f3-605b519f362a)
-[Ejemplo --list-plugins](https://github.com/user-attachments/assets/016ca996-0bc1-4310-b4d8-16c50eb310a8)
+[Ejemplo --log-brief](https://github.com/user-attachments/assets/88efb675-60e9-431a-add2-60538a50d4d3)<br>
+[Ejemplo --log-json](https://github.com/user-attachments/assets/c514ca26-d6e1-43ad-93f3-605b519f362a)<br>
+[Ejemplo --list-plugins](https://github.com/user-attachments/assets/016ca996-0bc1-4310-b4d8-16c50eb310a8)<br>
 
 
