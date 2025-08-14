@@ -89,6 +89,10 @@ gobuster dir --url google.com --wordlist /usr/share/wordlists/dirb/SecLists/Disc
 [Ejemplo1](https://github.com/user-attachments/assets/cf81cc46-b812-46a3-b5cc-de20f782cc35)
 
 ## Explicación del ejemplo 🔒:
+*Dir:* Sería el modo de enumeración de los directorios.<br>
+*--Url:* Sería el objetivo que estamos analizando.<br>
+
+
 
 
 
