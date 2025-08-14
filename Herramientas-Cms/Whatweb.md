@@ -16,3 +16,4 @@ whatweb -i archivo.txt
 whatweb --log-brief resultado.txt ejemplo.com
 whatweb --log-json resultado.json ejemplo.com
 whatweb --list-plugins
+```
