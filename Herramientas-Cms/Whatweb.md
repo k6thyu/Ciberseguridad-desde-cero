@@ -26,3 +26,4 @@ whatweb --list-plugins
 --list-plugins: Te permite ver todos los plugins disponibles.<br>
 
 ## Ejemplos completos de las opciones principales 🔧:
+![Ejemplo v:]
