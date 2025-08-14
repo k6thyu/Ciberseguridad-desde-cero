@@ -24,3 +24,5 @@ whatweb --list-plugins
 --log-brief: Guarda resultados con un resumen corto y legible a simple vista.<br>
 --log-json: Guarda resultados de datos completos y estructurados para análisis posterior.<br>
 --list-plugins: Te permite ver todos los plugins disponibles.<br>
+
+## Ejemplos completos de las opciones principales 🔧:
