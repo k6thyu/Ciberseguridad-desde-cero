@@ -94,7 +94,10 @@ gobuster dir --url google.com --wordlist /usr/share/wordlists/dirb/SecLists/Disc
 *Method:* Se utiliza GET para la solicitación de recursos.<br>
 *Threads:* Se utlizaron 10 hilos para la ejecución (más rápido).<br>
 *Negative Status codes:* ignora respuestas 404 (no encontrado).<br>
-*Timeout:* 10 segundos por cada petición.
+*Timeout:* 10 segundos por cada petición.<br>
+*/images:* Se utiliza para ver si el directorio se encontró.<br>
+*Size:* Tamaño de la respuesta en bytes.<br>
+
 
 
 
