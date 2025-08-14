@@ -81,12 +81,12 @@ git clone https://github.com/danielmiessler/SecLists.git
 
 -Luego en la terminal de la máquina virtual Kali Linux introduciremos el comando 
 ```bash
-gobuster dir --url http://192.168.0.41/ --wordlist /usr/share/wordlist/dirb/Seclists/Discovery/Web-Content
+gobuster dir --url google.com --wordlist /usr/share/wordlists/dirb/SecLists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt
 ```
 
 
 ## Ejemplo del uso de la herramienta 🔧:
-[Ejemplo1](https://github.com/user-attachments/assets/a3a0627b-cb26-456c-9653-f82fb5cd203e)
+[Ejemplo1](https://github.com/user-attachments/assets/cf81cc46-b812-46a3-b5cc-de20f782cc35)
 
 
 
