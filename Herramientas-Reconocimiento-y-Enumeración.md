@@ -13,7 +13,7 @@ git clone https://github.com/santiko/Knockpy.git
 
 # Uso básico 💻:
 ```bash
-*Escaneo simple de un dominio:*<br>
+Escaneo simple de un dominio:
 python2 knockpy ejemplo.com
 ```
 
@@ -38,8 +38,8 @@ Dirforcer es una **herramienta de fuerza bruta que fue diseñada para la búsque
 
 # Instalación 📦:
 ```bash
-git clone https://github.com/thiagoarajosec/dirforcer.git<br>
-*Dependencia*:<br> 
+git clone https://github.com/thiagoarajosec/dirforcer.git
+Dependencia:
 pipx install pyfiglet
 ```
 # Uso básico 💻:
@@ -78,7 +78,7 @@ sudo apt install gobuster
 
 -Luego en la terminal de la máquina virtual Kali Linux introduciremos el comando 
 ```bash
-"gobuster dir --url http://192.168.0.41/ --wordlist /usr/share/wordlist/dirb/Seclists/Discovery/Web-Content"<br>
+gobuster dir --url http://192.168.0.41/ --wordlist /usr/share/wordlist/dirb/Seclists/Discovery/Web-Content
 ```
 
 
