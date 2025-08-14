@@ -74,7 +74,10 @@ sudo apt install gobuster
 
 -En la máquina virtual Metasploitable2 introduciremos el comando **"ifconfig"**. Cuando ya introdujimos el comando nos dirigiremos al apartado de **"inet addr"** donde saldrá una dirección ip.<br> 
 
--Podemos descargar una **wordlist que es muy completa y poderosa llamada Seclists** con el comando "git clone https://github.com/danielmiessler/SecLists.git"<br>
+-Podemos descargar una **wordlist que es muy completa y poderosa llamada Seclists** con el comando 
+```bash
+git clone https://github.com/danielmiessler/SecLists.git
+```
 
 -Luego en la terminal de la máquina virtual Kali Linux introduciremos el comando 
 ```bash
