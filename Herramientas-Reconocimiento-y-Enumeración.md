@@ -7,11 +7,15 @@
 KnockPy es una herramienta desarrollada en Python para la **enumeración de subdominios en un dominio objetivo mediante el uso de listas de palabras (wordlists)**. Resulta especialmente útil en la **fase de reconocimiento** durante pruebas de penetración.
 
 # Instalación 📦:
+```bash
 git clone https://github.com/santiko/Knockpy.git
+```
 
-# Uso básico 💻: 
+# Uso básico 💻:
+```bash
 *Escaneo simple de un dominio:*<br>
 python2 knockpy ejemplo.com
+```
 
 # Opciones principales 🔧:
 -w: Especifica una wordlist personalizada o predeterminada.<br>
@@ -33,12 +37,15 @@ python2 knockpy ejemplo.com
 Dirforcer es una **herramienta de fuerza bruta que fue diseñada para la búsqueda de archivos ocultos y directorios en servidores web**. Su objetivo principal es ayudar a descubrir **rutas no registradas o protegidas** que no aparecen fácilmente navegando por un sitio web, lo que puede ser útil para pruebas de seguridad o pentesting.
 
 # Instalación 📦:
+```bash
 git clone https://github.com/thiagoarajosec/dirforcer.git<br>
 *Dependencia*:<br> 
 pipx install pyfiglet
-
-# Uso básico 💻: 
+```
+# Uso básico 💻:
+```bash
 python3 dirforcer.py -d https://ejemplo.com -w directorios.txt
+```
 
 # Códigos HTTP importantes 🚦:
 | Código | Significado                 | Descripción breve                           |
@@ -58,7 +65,9 @@ python3 dirforcer.py -d https://ejemplo.com -w directorios.txt
 Gobuster es una **herramienta de fuerza bruta que se utiliza principalmente para encontrar directorios, archivos, subdominios y otros recursos ocultos en servidores web o DNS**.
 
 # Instalación 📦:
+```bash
 sudo apt install gobuster
+```
 
 # Uso básico 💻: 
 -Conmúnmente la herramienta gobuster se usa en entornos de práctica y laboratorio conocido como **Metasploitable2**, porque esta es una **máquina vulnerable diseñada para que los pentesters y estudiantes practiquen técnicas de hacking ético**, incluyendo la enumeración de directorios y subdominios.<br>
@@ -67,7 +76,10 @@ sudo apt install gobuster
 
 -Podemos descargar una **wordlist que es muy completa y poderosa llamada Seclists** con el comando "git clone https://github.com/danielmiessler/SecLists.git"<br>
 
--Luego en la terminal de la máquina virtual Kali Linux introduciremos el comando "gobuster dir --url http://192.168.0.41/ --wordlist /usr/share/wordlist/dirb/Seclists/Discovery/Web-Content"<br>
+-Luego en la terminal de la máquina virtual Kali Linux introduciremos el comando 
+```bash
+"gobuster dir --url http://192.168.0.41/ --wordlist /usr/share/wordlist/dirb/Seclists/Discovery/Web-Content"<br>
+```
 
 
 ## Ejemplo del uso de la herramienta 🔧:
